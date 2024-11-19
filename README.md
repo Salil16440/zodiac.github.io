@@ -1,7 +1,8 @@
-# Zodiac - Text-Based Adventure Game
+# Zodiac Files - Text-Based Adventure Game
 
 ## Overview
-**Zodiac** is a text-based adventure game where players step into the shoes of a journalist investigating a mysterious serial killer, inspired by the movie `Zodiac`. Players make key decisions that affect the outcome of the investigation and whether they can uncover the truth or become the next victim of the killer.
+
+**Zodiac Files** is a text-based adventure game where players step into the shoes of a journalist investigating a mysterious serial killer, inspired by the movie `Zodiac`. Players make key decisions that affect the outcome of the investigation and whether they can uncover the truth or become the next victim of the killer.
 
 The game involves receiving cryptic letters, solving ciphers, and making critical choices that lead to multiple possible endings.
 
