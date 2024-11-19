@@ -30,7 +30,7 @@ The game involves receiving cryptic letters, solving ciphers, and making critica
 
 ## Installation and Setup
 
-1. **Clone the Repository** (if available):
+1. **Clone the Repository** :
    ```bash
    git clone https://github.com/Salil16440/zodiac.github.io
    
